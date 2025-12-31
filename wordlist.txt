@@ -1,0 +1,13 @@
+www
+mail
+vpn
+dev
+test
+api
+admin
+portal
+staging
+blog
+cdn
+assets
+internal

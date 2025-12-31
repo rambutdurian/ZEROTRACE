@@ -1,0 +1,20 @@
+{
+    "ip": "44.228.249.3",
+    "subdomains": [],
+    "open_ports": [
+        21,
+        80,
+        443
+    ],
+    "technologies": {
+        "server": "nginx/1.19.0",
+        "powered_by": "PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1"
+    },
+    "misconfigurations": [
+        "Directory listing enabled at /images/",
+        "Clickjacking protection missing",
+        "MIME-sniffing protection missing",
+        "CSP header missing",
+        "HSTS missing"
+    ]
+}
