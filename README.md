@@ -7,8 +7,8 @@ ZEROTRACE is a lightweight, high-speed reconnaissance tool designed with a **One
 
 ## 📸 Interface
 <p align="center">
-  <img src="screenshots/banner.png" width="700" alt="ZeroTrace Banner">
-  <img src="screenshots/output.png" width="700" alt="ZeroTrace output">
+  <img src="screenshots/output.png" width="700" alt="ZeroTrace Banner">
+  <img src="screenshots/banner.png" width="700" alt="ZeroTrace output">
   <br>
   <i>The Pirate King's Recon Tool in Action</i>
 </p>
