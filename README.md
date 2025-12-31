@@ -45,7 +45,7 @@ Run the script and follow the prompt:
 python zerotrace.py
 ```
 
-##📜 Bounty Report Example
+## 📜 Bounty Report Example
 Reports are saved as testphp_vulnweb_com_bountyreport.json
 <p align="center">
   <img src="screenshots/report.png" width="700" alt="Bounty Report">
